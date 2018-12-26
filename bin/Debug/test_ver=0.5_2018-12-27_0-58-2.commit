@@ -1,0 +1,46 @@
+jmp main
+
+additing:
+add eax, ebx
+mov edx, eax
+mov ah, 3
+jmp end
+
+subtraction:
+sub eax, ebx
+mov edx, eax
+mov ah, 3
+jmp end
+
+multiply:
+mul ebx
+mov edx, eax
+mov ah, 3
+jmp end
+
+divide:
+div ebx
+mov edx, eax
+mov ah, 3
+jmp end
+
+main:
+mov ah, 4
+int 21
+mov eax, edx
+mov ah, 1
+int 21
+mov cl, al
+mov ah, 4
+int 21
+mov ebx, edx
+cmp cl, 43
+je additing
+cmp cl, 45
+je subtraction
+cmp cl, 42
+je multiply
+cmp cl, 47
+je divide
+end:
+int 21

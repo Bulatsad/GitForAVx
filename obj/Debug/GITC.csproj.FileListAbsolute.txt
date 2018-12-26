@@ -1,0 +1,15 @@
+C:\Users\Bulat\source\repos\GITC\GITC\obj\Debug\GITC.csprojAssemblyReference.cache
+C:\Users\Bulat\source\repos\GITC\GITC\obj\Debug\GITC.csproj.CoreCompileInputs.cache
+C:\Users\Bulat\source\repos\GITC\GITC\bin\Debug\GITC.exe.config
+C:\Users\Bulat\source\repos\GITC\GITC\bin\Debug\GITC.exe
+C:\Users\Bulat\source\repos\GITC\GITC\bin\Debug\GITC.pdb
+C:\Users\Bulat\source\repos\GITC\GITC\bin\Debug\EntityFramework.dll
+C:\Users\Bulat\source\repos\GITC\GITC\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Bulat\source\repos\GITC\GITC\bin\Debug\EntityFramework.xml
+C:\Users\Bulat\source\repos\GITC\GITC\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Bulat\source\repos\GITC\GITC\obj\Debug\GITC.csproj.CopyComplete
+C:\Users\Bulat\source\repos\GITC\GITC\obj\Debug\GITC.exe
+C:\Users\Bulat\source\repos\GITC\GITC\obj\Debug\GITC.pdb
+C:\Users\Bulat\source\repos\GITC\GITC\bin\Debug\AVC_AVM.dll
+C:\Users\Bulat\source\repos\GITC\GITC\bin\Debug\AVC_AVM.pdb
+C:\Users\Bulat\source\repos\GITC\GITC\bin\Debug\AVC_AVM.dll.config
